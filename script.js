@@ -10,7 +10,7 @@ class Person {
 		
 }
 
-function Employee {	
+class Employee extends Person{	
 	constructor(name,age,jobTitle)
 	{
 		super(name,age);
